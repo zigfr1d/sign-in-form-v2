@@ -1,0 +1,157 @@
+.main {
+    width: 100%;
+    height: 700px;
+    float: left;
+    background: #f2f2f2;
+    background-image: url("../img/Group\ 5.png");
+    background-color: #ff7979;
+    box-sizing: border-box;
+  }
+  .mainleft {
+    width: 50%;
+    height: 700px;
+    float: left;
+    /* background: blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  
+  .mainleft h1 {
+    /* font-weight: bold; */
+    font-family: 'poppins';
+    font-weight: 700px;
+    font-size: 50px;
+  }
+  .mainlefttext1 {
+    width: 525px;
+    height: 220px;
+    float: left;
+    margin-left: 100px;
+  
+    box-sizing: border-box;
+    color: white;
+  }
+
+
+  .mainright {
+    width: 50%;
+    height: 700px;
+    float: left;
+    /* background: blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+   
+    
+  }
+
+  .rightbutton{
+    width: 100%;
+    height: 40px;
+    float: left;
+    /* background: red; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+   
+   
+
+  }
+
+  .btn2{
+    width: 500px;
+    height: 40px;
+    float: left;
+    background: #5E54A4;
+    color: white;
+    box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
+    border: none;
+    font-family: 'poppins';
+    border-radius: 10px;
+    margin-bottom: 50px;
+  }
+
+  
+.mainrightcenter{
+  width: 100%;
+  height: 500px;
+  float: left;
+  /* background: purple; */
+  margin-top: 30px;
+}
+  .center{
+    width: 500px;
+    height: 500px;
+    float: left;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  }
+.inp{
+  width: 400px;
+  height: 40px;
+  border-radius: 6px;
+  border: 2px solid #FF7979;
+  float: left;
+  margin-top: 30px;
+
+}
+.input{
+  width: 400px;
+  height: 300px;
+  float: left;
+  margin-top: 40px;
+  
+}
+.downbutton{
+  width: 100%;
+  height: 40px;
+  float: left;
+}
+.btn{
+  width: 400px;
+    height: 40px;
+    float: left;
+    background: #77E2B3;
+    color: white;
+    box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
+    border: none;
+    font-family: 'poppins';
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+
+.center p {
+  padding-top: 1rem;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 26px;
+  /* identical to box height, or 236% */
+
+  text-align: center;
+
+  color: #bab7d4;
+}
+
+.center p kbd {
+  background: red;
+  cursor: pointer;
+}
+  .kbd{
+    width: 100%;
+    height: 30px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
